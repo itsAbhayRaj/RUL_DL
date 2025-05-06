@@ -40,5 +40,5 @@ Different models comparison , Feature Extraction from auto encoders , CNN and th
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/cinema-ticket-forecasting.git
+git clone https://github.com/itsAbhayRaj/RUL_DL.git
 cd cinema-ticket-forecasting
